@@ -72,11 +72,14 @@ Vale sempre pensar nas dimensões e portabilidade potencial do nosso roteador. M
 
 ### Frequência
 * 2,4 a 2,4835 GHz
+* 5 Ghz
 
-A frequência de atuação tem a ver e é regulamentada pelos padrões suportados. A grande questão aqui é a potencial interferência de outros aparelhos e roteadores.
+A frequência de atuação tem a ver e é regulamentada pelos padrões suportados. A grande questão aqui é a potencial interferência de outros aparelhos (telefones sem fio, microondas, etc) e roteadores.
+
+Para o padrão "n" também é possível utilizar a frequencia de 5 Ghz, sendo que a grande vantagem é o menor número de dispositivos que utilizam essa frequência, acarretando em menos interferências.
 
 ### Taxa do Sinal
-* 11n: Até 150Mbps (dinâmico)
+* 11n: Até 600Mbps (dinâmico)
 * 11g: Até 54Mbps (dinâmico)
 * 11b: Até 11Mbps (dinâmico)
 
